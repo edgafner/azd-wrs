@@ -10,7 +10,7 @@ permissions:
   pages: write
 
 env:
-  INSTANCE: 'AZD/azd'
+  INSTANCE: 'Azd/azd'
   ARTIFACT: 'webHelpAZD2-all.zip'
   DOCKER_VERSION: '233.14938'
   ALGOLIA_ARTIFACT: 'algolia-indexes-AZD.zip'
