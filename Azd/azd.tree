@@ -4,13 +4,13 @@
 
 
 <instance-profile id="azd" name="Documentation"
-                  start-page="AZD.topic">
+                  start-page="Azure-Devops-Pull-Request.topic">
 
-    <toc-element topic="AZD.topic">
-        <toc-element topic="Azd-Installation.topic"/>
-        <toc-element topic="Azd-Manage-projects-hosted-on-Azure-DevOps.topic"/>
-        <toc-element topic="Azd-Reference-And-Support.topic"/>
-        <toc-element topic="Azure-DevOps-Pipelines.topic"/>
+    <toc-element topic="Azure-Devops-Pull-Request.topic">
         <toc-element topic="Work-with-Azure-DevOps-pull-requests.topic"/>
+        <toc-element topic="Azure-DevOps-Pipelines.topic"/>
+        <toc-element topic="Azd-Reference-And-Support.topic"/>
+        <toc-element topic="Azd-Manage-projects-hosted-on-Azure-DevOps.topic"/>
+        <toc-element topic="Azd-Installation.topic"/>
     </toc-element>
 </instance-profile>
