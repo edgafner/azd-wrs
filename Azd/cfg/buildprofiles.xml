@@ -33,7 +33,7 @@
         <algolia-id>DN5QHI6Q67</algolia-id>
         <algolia-index>Azd</algolia-index>
         <algolia-api-key>e405e73b1e3af0bab080f1e0d48eb241</algolia-api-key>
-<!--         <web-root>https://azd-wrs.github.io</web-root> -->
+        <web-root>https://edgafner.github.io/azd-wrs</web-root>
     </variables>
 
 </buildprofiles>
