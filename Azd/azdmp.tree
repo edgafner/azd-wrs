@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="azdmp"
+                  name="azdmp"
+                  start-page="azdmp.topic">
+
+    <toc-element topic="azdmp.topic">
+        <include from="azd-lib.tree" element-id="l.tree"/>
+    </toc-element>
+</instance-profile>
