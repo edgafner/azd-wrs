@@ -5,8 +5,11 @@
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="Azd Marketplace" id="azdmp">
 
-
-  <title>AZD - Azure DevOps Pull Request plugin</title>
-
+  
   <img src="azd_icon.svg" alt="azd_icon"/>
+  <title>AZD - Azure DevOps Pull Request plugin
+
+  </title>
+
+
 </topic>
