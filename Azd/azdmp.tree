@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="azdmp"
-                  name="azdmp"
+                  name="Documentation"
                   start-page="azdmp.topic">
 
     <toc-element topic="azdmp.topic">
