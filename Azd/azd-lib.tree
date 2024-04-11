@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="azd-lib"
+                  name="azd-lib"
+                  start-page="lib.md" is-library="true">
+
+    <toc-element topic="lib.md"/>
+    <snippet id="l.tree">
+        <toc-element topic="Azd-Installation.topic"/>
+        <toc-element topic="Azd-Manage-projects-hosted-on-Azure-DevOps.topic"/>
+        <toc-element topic="Azd-Settings-Configuration.topic"/>
+        <toc-element topic="Work-with-Azure-DevOps-pull-requests.topic"/>
+        <toc-element topic="Azure-DevOps-Pipelines.topic"/>
+        <toc-element topic="Azd-Reference-And-Support.topic"/>
+
+    </snippet>
+</instance-profile>
