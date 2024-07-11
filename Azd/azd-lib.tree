@@ -14,6 +14,7 @@
         <toc-element topic="Work-with-Azure-DevOps-pull-requests.topic"/>
         <toc-element topic="Azure-DevOps-Pipelines.topic"/>
         <toc-element topic="Azd-Reference-And-Support.topic"/>
+        <toc-element topic="Azd-FAQ.topic"/
 
     </snippet>
 </instance-profile>
