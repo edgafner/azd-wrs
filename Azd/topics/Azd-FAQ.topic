@@ -95,7 +95,7 @@
             project's GitHub issues page. Follow these steps:
         </p>
         <list type="decimal">
-            <li>Go to the GitHub issues page: <a href="https://github.com/edgafner/dorkag/issues">https://github.com/edgafner/dorkag/issues</a>
+            <li>Go to the GitHub issues page: <a href="https://github.com/edgafner/dorkag/issues"/>
             </li>
             <li>Click on "New issue."</li>
             <li>Select "Bug report" or "Feature request" as appropriate.</li>
