@@ -3,8 +3,10 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
 <topic id="Azd-FAQ"
        title="FAQ and Troubleshooting"
-       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd">
-
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd">
+    <primary-label ref="azd"/>
+    <secondary-label ref="2024.3"/>
 
     <chapter id="creating_pat" title="Why do I need to create a PAT with 'All accessible organizations' selected?">
         <p>
@@ -13,7 +15,6 @@
             ticket
         </p>
     </chapter>
-
 
     <chapter id="token_issue" title="Resolving Token Issues with Azure DevOps Server">
         <p>
@@ -43,7 +44,6 @@
         In case your organization does not support the native Keychain, you can try with the KeyPass.
         <img alt="token_password.png" src="token_password.png"/>
     </chapter>
-
 
     <chapter id="what_is_pat" title="What is a Personal Access Token (PAT)?">
         <p>
@@ -80,11 +80,12 @@
             <li>Ensure the PAT has not expired. PATs have a limited lifespan and need to be renewed periodically.</li>
             <li>Verify that the PAT has the necessary permissions for the tasks you are performing.</li>
             <li>Check for any typos or errors in the PAT when entering it into your application.</li>
-            <li>Make sure the PAT was created with 'All accessible organization'</li>
             <li>If you clone with the IDE Version control, make sure that you checked/unchecked the ssh</li>
-            <li>If you are using http is highly recommended to use enable the usage of Git Helper Credential in the
-                <ui-path>setting/version control</ui-path>
-                >
+            <li>If you are using http is highly recommended to enable the usage of Git Credential Helper by checking the
+                the
+                <ui-path>User credential helper</ui-path>
+                checkbox under
+                <ui-path>Setting | Version Control | Git</ui-path>
             </li>
         </list>
     </chapter>

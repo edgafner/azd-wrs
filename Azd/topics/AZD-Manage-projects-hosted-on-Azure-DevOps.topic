@@ -6,6 +6,7 @@
        title="Manage projects hosted on Azure DevOps" id="AZD-Manage-projects-hosted-on-Azure-DevOps"
        help-id="Manage-projects-hosted-on-Azure-DevOps;Azd-Manage-projects-hosted-on-Azure-DevOps">
     <primary-label ref="azd"/>
+    <secondary-label ref="2024.3"/>
 
     <video src="https://youtu.be/cboZs7iyA7Y"/>
 

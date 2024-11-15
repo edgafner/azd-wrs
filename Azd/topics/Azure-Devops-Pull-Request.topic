@@ -14,6 +14,7 @@
             right from the IDE.
         </description>
 
+
         <spotlight>
             <a href="AZD-Installation.topic" type="start" summary="Install the Azd plugin"/>
             <a href="AZD-Manage-projects-hosted-on-Azure-DevOps.topic" type="settings"
