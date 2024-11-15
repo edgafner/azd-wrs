@@ -8,14 +8,6 @@
     <primary-label ref="azd"/>
     <secondary-label ref="2024.3"/>
 
-    <chapter id="creating_pat" title="Why do I need to create a PAT with 'All accessible organizations' selected?">
-        <p>
-            Because the Azure Devops Microsoft team doesn't want to solve <a
-                href="https://developercommunity.visualstudio.com/t/Profiles-REST-does-not-work-with-PAT-for/10384195">this</a>
-            ticket
-        </p>
-    </chapter>
-
     <chapter id="token_issue" title="Resolving Token Issues with Azure DevOps Server">
         <p>
             When working with Azure DevOps Server within an organization, it may occur that the library used for
@@ -90,6 +82,28 @@
         </list>
     </chapter>
 
+    <chapter id="performance_issues" title="Resolving Performance Issues with the Plugin">
+        <p>
+            If you are experiencing performance issues with the AZD IntelliJ plugin, you can try the following steps to
+            improve performance:
+        </p>
+        <list type="bullet">
+            <li>Ensure you are using the latest version of the plugin. Updates may include performance improvements.
+            </li>
+            <li>If your team is creating large Pull Requests with many files and many comments, it is recommended to:
+                <list type="bullet">
+                    <li>Increase the VM memory settings so the IDE can run with at least
+                        <ui-path>6GB</ui-path>
+                    </li>
+                    <li>Unselect the
+                        <ui-path>Show all files in one diff view</ui-path>
+                        mode
+                    </li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+
     <chapter id="bug_feature_request" title="How to Open a Bug or Feature Request">
         <p>
             If you encounter a bug or have a feature request for the AZD IntelliJ plugin, you can report it on the
@@ -122,6 +136,5 @@
                 href="https://plugins.jetbrains.com/plugin/22319-azd/reviews">Azd</a>.
         </p>
     </chapter>
-
 
 </topic>

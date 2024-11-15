@@ -85,9 +85,13 @@
         <deflist collapsible="true">
             <def title="Comment Actions" id="comment">
                 <p>Comment on a change made by the author, or comment on the Pull Request as a whole.<br/>
+                    <img src="commentPRLevel.png" alt="comment-on-pr" style="block" border-effect="line"/>
                     You can reply, edit, delete your comments, or thumbs up the comments left by others.
                 </p>
-                <img src="commentPRLevel.png" alt="comment-on-pr"/>
+                <p>You can resolve a comment with all the statuses comment supported in Azure DevOps.</p>
+                <note>
+                    Version 2024.3.1+ you can also mention a user in your comment.
+                </note>
             </def>
             <def title="Vote Actions" id="vote">
                 <p>Approve, Approve with suggestions, Reset your vote, Wait for changes or Reject the Pull Request.<br/>
@@ -107,16 +111,22 @@
                     edit the merge commit message, and choose to close associated work items.
                 </p>
 
-                <note>From version 2024.3.8, you can set Auto Complete with setting the Merge stategy
+                <note>From version 2024.3.8, you can set Auto Complete with setting the Merge strategy
                     following the same capability as in the Azure DevOps portal
                     <img src="set-auto-complete.png" alt="set-auto-complete" border-effect="line"/>
                 </note>
             </def>
             <def title="Publish Draft Actions" id="publish-draft">
                 <p>When you are ready to share your draft Pull Request, you can publish it to make it visible to others.
-                   You can also go the other way around and save a published Pull Request as a draft.
+                    You can also go the other way around and save a published Pull Request as a draft.
                 </p>
                 <img src="publish_draft_actions.png" alt="publish-draft"/>
+            </def>
+            <def title="Description Actions" id="description">
+                <p>Edit the description of the Pull Request, or add a description if it's missing.
+                </p>
+                When creating the PR from the IDE, AZD is filling the description with the commit messages.
+                You can edit the description before triggering the PR creation.
             </def>
 
         </deflist>
