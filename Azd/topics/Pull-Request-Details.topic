@@ -5,7 +5,6 @@
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
        title="Pull Request Details" id="Pull-Request-Details">
 
-
     <chapter title="Pull Request Timeline" id="pull_request_timeline">
         <p>The timeline provides a chronological overview of significant events and interactions within a pull request.
             It's
@@ -89,7 +88,8 @@
             <step>
                 <p>In the list of pull requests, select the one you want to work with and double-click it.</p>
                 <p>The IDE opens an overview of the selected pull request.
-                    <img src="view_and_apply_single_pr.png" alt="view_and_apply_single_pr" style="block" thumbnail="true"/>
+                    <img src="view_and_apply_single_pr.png" alt="view_and_apply_single_pr" style="block"
+                         thumbnail="true"/>
                 </p>
                 <list>
                     <li><p>Next to the title, there is the pull request id number. Click it if you want to open the pull

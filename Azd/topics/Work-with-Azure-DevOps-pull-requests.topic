@@ -3,7 +3,7 @@
     SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
-       title="Work with Azure DevOps pull requests" id="Work-with-Azure-DevOps-pull-requests">
+       title="Work with Pull Requests" id="Work-with-Azure-DevOps-pull-requests">
 
   <primary-label ref="azd"/>
   <p>

@@ -27,6 +27,7 @@
         <download-title>Install Azd</download-title>
         <download-page>https://plugins.jetbrains.com/plugin/22319-azd</download-page>
         <showDownloadButton>true</showDownloadButton>
+        <link-color>aqua</link-color>
 
         <noindex-content>false</noindex-content>
         <offline-docs>false</offline-docs>

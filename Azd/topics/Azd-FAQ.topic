@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
-<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
-       title="Azd - FAQ" id="Azd-FAQ">
+<topic id="Azd-FAQ"
+       title="FAQ and Troubleshooting"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd">
 
 
-    <chapter title="Why do I need to create a PAT with 'All accessible organizations' selected?" id="creating_pat">
+    <chapter id="creating_pat" title="Why do I need to create a PAT with 'All accessible organizations' selected?">
         <p>
             Because the Azure Devops Microsoft team doesn't want to solve <a
                 href="https://developercommunity.visualstudio.com/t/Profiles-REST-does-not-work-with-PAT-for/10384195">this</a>
@@ -15,7 +15,7 @@
     </chapter>
 
 
-    <chapter title="Resolving Token Issues with Azure DevOps Server" id="token_issue">
+    <chapter id="token_issue" title="Resolving Token Issues with Azure DevOps Server">
         <p>
             When working with Azure DevOps Server within an organization, it may occur that the library used for
             credential storage is disabled.
@@ -45,7 +45,7 @@
     </chapter>
 
 
-    <chapter title="What is a Personal Access Token (PAT)?" id="what_is_pat">
+    <chapter id="what_is_pat" title="What is a Personal Access Token (PAT)?">
         <p>
             A Personal Access Token (PAT) is a secure way to authenticate Azure DevOps. It provides a way to access
             your Azure DevOps resources without using your username and password, which can enhance security by limiting
@@ -53,7 +53,7 @@
         </p>
     </chapter>
 
-    <chapter title="How to Create a PAT in Azure DevOps?" id="create_pat">
+    <chapter id="create_pat" title="How to Create a PAT in Azure DevOps?">
         <p>
             To create a PAT in Azure DevOps, follow these steps:
         </p>
@@ -72,7 +72,7 @@
         </p>
     </chapter>
 
-    <chapter title="Common Issues with Login and How to Resolve Them" id="login_pat_issues">
+    <chapter id="login_pat_issues" title="Common Issues with Login and How to Resolve Them">
         <p>
             If you encounter issues when trying to log in, consider the following troubleshooting steps:
         </p>
@@ -89,7 +89,7 @@
         </list>
     </chapter>
 
-    <chapter title="How to Open a Bug or Feature Request" id="bug_feature_request">
+    <chapter id="bug_feature_request" title="How to Open a Bug or Feature Request">
         <p>
             If you encounter a bug or have a feature request for the AZD IntelliJ plugin, you can report it on the
             project's GitHub issues page. Follow these steps:
@@ -103,7 +103,7 @@
         </list>
     </chapter>
 
-    <chapter title="Why Isn't the Plugin Free?" id="why_not_free">
+    <chapter id="why_not_free" title="Why Isn't the Plugin Free?">
         <p>
             The plugin is not free because its development requires significant time and resources.
         </p>
@@ -113,7 +113,7 @@
         </p>
     </chapter>
 
-    <chapter title="Is there anything I can help for making the plugin free?" id="sponsor_plugin">
+    <chapter id="sponsor_plugin" title="Is there anything I can help for making the plugin free?">
         <p>
             The goal is to keep trying to reach out to potential investors hoping this community will be big enough
             to make the plugin free.
