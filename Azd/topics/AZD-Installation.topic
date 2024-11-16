@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
-       title="AZD Installation" id="AZD-Installation" help-id="Installation;Azd-Installation">
+       title="Installation" id="AZD-Installation" help-id="Installation;Azd-Installation">
 
     <primary-label ref="azd"/>
     <p>Installing the AZD plugin is straightforward.
@@ -300,7 +300,7 @@
                 <warning title="Important">
                     <list type="bullet">
                         <li>When connecting from the <b>AZD Toolwindow</b>, the plugins detect and append your Azure
-                            Devops organization name (only if necessary, see bullet below).<br/>
+                            Devops organization name (only if necessary, see the bullet below).<br/>
                             When connecting from the <b>Settings Dialog</b>, the plugin does not append the Azure
                             Devops organization name because it can't detect the organization name during the Settings
                             session,
