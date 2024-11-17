@@ -13,7 +13,7 @@
         <a href="https://www.jetbrains.com/help/idea/managing-plugins.html">documentation</a>.
     </p>
 
-    <secondary-label ref="2024.3"/>
+    <secondary-label ref="azd_version"/>
 
     <note>
         <p>

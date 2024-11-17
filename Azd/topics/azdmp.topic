@@ -6,7 +6,7 @@
        title="Azd Marketplace" id="azdmp">
 
   <primary-label ref="azd"/>
-  <secondary-label ref="2024.3"/>
+  <secondary-label ref="azd_version"/>
   <chapter title="AZD - Azure DevOps Pull Request" id="azdMarketPlace">
 
     <p>
