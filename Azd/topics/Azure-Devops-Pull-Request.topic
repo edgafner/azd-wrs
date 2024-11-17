@@ -18,17 +18,19 @@
         <spotlight>
             <a href="AZD-Installation.topic" type="start" summary="Install the Azd plugin"/>
             <a href="AZD-Manage-projects-hosted-on-Azure-DevOps.topic" type="settings"
-               summary="Configure your development environment">Azd Configuration</a>
+               summary="Configure your development environment">Configuration</a>
         </spotlight>
 
         <!--    Add several topics that are most important for this section.    -->
         <primary>
-            <title>Get started</title>
-            <a href="Work-with-Azure-DevOps-pull-requests.topic" type="tools" summary="AZD features and capabilities">Features
-                and Usage</a>
+            <title>AZD in action</title>
+            <a href="Work-with-Azure-DevOps-pull-requests.topic" type="tools"
+               summary="Pull requests without leaving the IDE">
+                Pull Requests</a>
+            <a href="Pull-Request-Details.topic" type="integration" summary="Review Pull Request">Review
+                a Pull Request</a>
             <a href="Azure-DevOps-Pipelines.topic" type="cloud"
-               summary="Use IDEA capabilities to ease your Azure DevOps pipelines journey">Azure DevOps Pipelines
-                Injection</a>
+               summary="Pipelines without leaving the IDE">Pipelines</a>
         </primary>
 
         <!--    Add several topics that are less important or are relevant only for advanced/experienced users.    -->
