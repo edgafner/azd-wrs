@@ -73,7 +73,7 @@
             <li>Verify that the PAT has the necessary permissions for the tasks you are performing.</li>
             <li>Check for any typos or errors in the PAT when entering it into your application.</li>
             <li>If you clone with the IDE Version control, make sure that you checked/unchecked the ssh</li>
-            <li>If you are using http is highly recommended to enable the usage of Git Credential Helper by checking the
+            <li>If you are using http is highly recommended to enable the usage of Git Credential Helper by checking
                 the
                 <ui-path>User credential helper</ui-path>
                 checkbox under

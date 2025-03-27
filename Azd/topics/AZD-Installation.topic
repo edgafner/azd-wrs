@@ -251,7 +251,7 @@
                     <tab title="ToolWindow" id="azure-devops-service-toolwindow">
                         <procedure title="Login from Azure DevOps ToolWindow" id="login-from-toolwindow-service">
                             <step>
-                                <p>Open the Azd ToolWindow:
+                                <p>Open the AZD ToolWindow:
                                     <img src="pat_from_toolWindow.png" alt="pat_from_toolWindow" border-effect="line"
                                          style="block"/>
                                 </p>
@@ -300,9 +300,10 @@
                 <warning title="Important">
                     <list type="bullet">
                         <li>When connecting from the <b>AZD Toolwindow</b>, the plugins detect and append your Azure
-                            Devops organization name (only if necessary, see the bullet below).<br/>
+                            Devops organization name (only if necessary, see a bullet below).<br/>
                             When connecting from the <b>Settings Dialog</b>, the plugin does not append the Azure
-                            Devops organization name because it can't detect the organization name during the Settings
+                            Devops organization name
+                            because it can't detect the organization name during the Settings
                             session,
                             so <b>you will have to fill that</b>.
                         </li>
@@ -327,7 +328,7 @@
                     <tab title="ToolWindow" id="azure-devops-server-toolwindow">
                         <procedure title="Login from Azure DevOps ToolWindow" id="login-from-toolwindow-server">
                             <step>
-                                <p>Open the Azd ToolWindow:
+                                <p>Open the AZD ToolWindow:
                                     <img src="pat_from_toolWindow.png" alt="pat_from_toolWindow" border-effect="line"
                                          style="block"/>
                                 </p>

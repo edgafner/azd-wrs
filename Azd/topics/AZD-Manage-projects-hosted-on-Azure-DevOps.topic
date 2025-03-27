@@ -20,7 +20,8 @@
             <step>
                 <p>In the main menu, go to
                     <ui-path>Git | Clone</ui-path>
-                    . If the
+                    .
+                    If the
                     <ui-path>Git</ui-path>
                     menu is not available, choose
                     <ui-path>VCS | Get from Version Control.</ui-path>
@@ -67,9 +68,11 @@
 
     <chapter title="Jump to the Azure DevOps version of a file" id="jump-to">
         <p>
-            You can jump from IntelliJ IDEA to the Azure DevOps version of a file. IntelliJ IDEA detects which branch is
+            You can jump from IntelliJ IDEA to the Azure DevOps version of a file.
+            IntelliJ IDEA detects which branch is
             currently
-            active as well as the latest revision of the file, and opens the Azure DevOps copy of the selected file in
+            active as well as the latest revision of the file,
+            and opens the Azure DevOps copy of the selected file in
             the
             corresponding commit in your web browser.
         </p>
