@@ -9,5 +9,5 @@
 
     <secondary-label id="experimental" name="Experimental" color="purple">This is an experimental feature
     </secondary-label>
-    <secondary-label id="azd_version" name="V2025.2.52" color="blue">New in version 2025.2 EAP</secondary-label>
+    <secondary-label id="azd_version" name="V2025.2.12" color="blue">New in version 2025.2 EAP</secondary-label>
 </labels>
