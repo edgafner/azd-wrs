@@ -2,12 +2,12 @@
 <!DOCTYPE labels SYSTEM "https://resources.jetbrains.com/writerside/1.0/labels-list.dtd">
 <labels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/labels.xsd">
-    <primary-label id="azd" short-name="azd" name="Azd" color="green">Azd</primary-label>
+    <primary-label id="azd" short-name="azd" name="Azd" color="blue">Azd</primary-label>
 
     <secondary-label id="wip" name="WIP" color="purple">Work in progress</secondary-label>
     <secondary-label id="beta" name="β" color="tangerine">Beta</secondary-label>
 
     <secondary-label id="experimental" name="Experimental" color="purple">This is an experimental feature
     </secondary-label>
-    <secondary-label id="azd_version" name="V2025.2.22" color="blue">New in version 2025.2 EAP</secondary-label>
+    <secondary-label id="azd_version" name="V2025.2.36" color="blue">New in version 2025.2 EAP</secondary-label>
 </labels>
