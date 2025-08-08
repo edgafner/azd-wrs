@@ -7,7 +7,17 @@
                   start-page="Azure-Devops-Pull-Request.topic">
 
     <toc-element topic="Azure-Devops-Pull-Request.topic">
-        <include from="azd-lib.tree" element-id="l.tree"/>
+        <toc-element topic="AZD-Installation.topic"/>
+        <toc-element topic="AZD-Manage-projects-hosted-on-Azure-DevOps.topic"/>
+        <toc-element topic="Azd-Settings-Configuration.topic"/>
+        <toc-element topic="Work-with-Azure-DevOps-pull-requests.topic">
+            <toc-element topic="Pull-Request-Details.topic"/>
+            <toc-element topic="AI-Title-Description-Generation.topic"/>
+            <toc-element topic="AI-Pull-Request-Review.topic"/>
+        </toc-element>
+        <toc-element topic="Azure-DevOps-Pipelines.topic"/>
+        <toc-element topic="AZD-Reference-And-Support.topic"/>
+        <toc-element topic="Azd-FAQ.topic"/>
     </toc-element>
 
 </instance-profile>
